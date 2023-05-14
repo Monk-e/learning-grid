@@ -71,3 +71,9 @@ main{
     align-items: center;
     gap: 1.5rem;
 }
+
+.testimonial .test-profile img {
+    width: 3.2rem;
+    border-radius: 50%;
+    border: .2rem solid transparent;
+}
