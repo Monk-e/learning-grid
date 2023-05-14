@@ -101,3 +101,19 @@ main{
 .testimonial .review {
     color: rgba(255 255 255 / .7);
 }
+
+.testimonial1 {
+    background-color: var(--moderateViolet);
+}
+.testimonial2 {
+    background-color: var(--grayishBlue);
+}
+.testimonial3 {
+    background-color: var(--white);
+}
+.testimonial4 {
+    background-color: var(--veryDarkBlackishBlue);
+}
+.testimonial5 {
+    background-color: var(--white);
+}
