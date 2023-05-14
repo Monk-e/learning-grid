@@ -77,3 +77,14 @@ main{
     border-radius: 50%;
     border: .2rem solid transparent;
 }
+
+.testimonial h3 {
+    font-size: 1.3rem;
+    line-height: 1;
+    color: var(--white);
+}
+
+.testimonial span {
+    font-size: 1.1rem;
+    color: rgba(255 255 255 / .5);
+}
