@@ -130,6 +130,27 @@ main{
 .testimonial1 .test-profile img {
     border-color: #9e73dc;
 }
+
 .testimonial4 .test-profile img {
     border-color:var(--moderateViolet);
+}
+
+.testimonial3 h3,
+.testimonial5 h3 {
+    color: var(--grayishBlue);
+}
+
+.testimonial3 span,
+.testimonial5 span{
+    color: rgba(72 85 106 / .5);
+}
+
+.testimonial3 .bold,
+.testimonial5 .bold {
+    color: var(--grayishBlue);
+}
+
+.testimonial3 .review,
+.testimonial5 .review {
+    color: rgba(72 85 106 / .7);
 }
