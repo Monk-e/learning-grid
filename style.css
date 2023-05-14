@@ -154,3 +154,31 @@ main{
 .testimonial5 .review {
     color: rgba(72 85 106 / .7);
 }
+
+.grid {
+    display: grid;
+    gap: 2.4rem;
+}
+
+@media(min-width:768px){
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .testimonial1 {
+        grid-column: span 2;
+    }
+
+    .testimonial3 {
+        grid-column: 1;
+    }
+
+    .testimonial4 {
+        grid-column: span 2;
+    }
+
+    .testimonial5 {
+        grid-column: 2;
+        grid-row: 2/4;
+    }
+
+}
