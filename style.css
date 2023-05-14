@@ -65,3 +65,9 @@ main{
     border-radius: 5rem;
     box-shadow: 4rem 6rem 4.8rem -4.8rem rgba(72 85 106 /25%);
 }
+
+.testimonial .test-profile{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
