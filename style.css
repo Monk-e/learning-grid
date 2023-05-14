@@ -126,3 +126,10 @@ main{
     background: url(images/bg-pattern-quotation.svg) no-repeat var(--moderateViolet);
     background-position: top right 10%;
 }
+
+.testimonial1 .test-profile img {
+    border-color: #9e73dc;
+}
+.testimonial4 .test-profile img {
+    border-color:var(--moderateViolet);
+}
