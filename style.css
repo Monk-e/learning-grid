@@ -97,3 +97,7 @@ main{
     line-height: 1.2;
     color: var(--white);
 }
+
+.testimonial .review {
+    color: rgba(255 255 255 / .7);
+}
