@@ -105,15 +105,24 @@ main{
 .testimonial1 {
     background-color: var(--moderateViolet);
 }
+
 .testimonial2 {
     background-color: var(--grayishBlue);
 }
+
 .testimonial3 {
     background-color: var(--white);
 }
+
 .testimonial4 {
     background-color: var(--veryDarkBlackishBlue);
 }
+
 .testimonial5 {
     background-color: var(--white);
+}
+
+.testimonial1.quote {
+    background: url(images/bg-pattern-quotation.svg) no-repeat var(--moderateViolet);
+    background-position: top right 10%;
 }
