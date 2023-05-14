@@ -88,3 +88,12 @@ main{
     font-size: 1.1rem;
     color: rgba(255 255 255 / .5);
 }
+
+.testimonial .bold {
+    margin-top: 1.3rem;
+    margin-bottom: 1.3rem;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.2;
+    color: var(--white);
+}
